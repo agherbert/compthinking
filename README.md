@@ -1,0 +1,2 @@
+# compthinking
+Repository for class
